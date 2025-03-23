@@ -9,7 +9,8 @@ A simple file organizer that sorts all files in the chosen directory into **Docu
 - Works **entirely in the browser**, no server needed.
 
 ## 📷 Demo
-[Add a GIF or screenshot here]
+![2025-03-23 16-39-57](https://github.com/user-attachments/assets/a2057d8d-8c6e-4d1f-9aa4-5aae65ce2c39)
+
 
 ## 🛠 How to Use
 1. Click the **folder icon** to select a directory.
